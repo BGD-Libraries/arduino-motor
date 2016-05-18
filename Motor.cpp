@@ -6,7 +6,7 @@
     #include "WProgram.h"
 #endif
 
-#include <Motor.h>
+#include "Motor.h"
 
 Motor::Motor(unsigned char IN1,unsigned char IN2,unsigned char ENA) 
 {
